@@ -117,15 +117,15 @@ http://muyarchi.in
 
 ### Website Working
 
-!creenshots/Browsing%20Page.png
+![Website Working]ng%20Page.png
 
 ### S3 Bucket
 
-screenshots/Bucket.png
+![S3 nshots/Bucket.png
 
 ### Static Website Hosting
 
-screenshots/static%20website%20Hosting.png
+![Static Website Hostingsite%20Hosting.png
 
 ### Bucket Policy
 
@@ -133,4 +133,4 @@ screenshots/Bucketpolicy.png
 
 ### Route 53 Hosted Zone
 
-![Route53 Hosted Zone](screenshots/.png )
+![Route 53s/Route53%20Hosted%20Zone.png
