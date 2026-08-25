@@ -122,7 +122,7 @@ screenshots/Browsing%20Page.png
 
 ### S3 Bucket
 
-screenshots/Bucket.png
+![S3 nshots/Bucket.png
 
 ### Static Website Hosting
 
@@ -135,3 +135,4 @@ screenshots/Bucketpolicy.png
 ### Route 53 Hosted Zone
 
 ![Route 53 /Route53%20Hosted%20Zone.png
+
