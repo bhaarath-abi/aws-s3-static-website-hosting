@@ -113,3 +113,24 @@ Successfully hosted a static website using Amazon S3 and Route 53 and mapped it 
 Website:
 
 http://muyarchi.in
+## Screenshots
+
+### Website Working
+
+!creenshots/Browsing%20Page.png
+
+### S3 Bucket
+
+screenshots/Bucket.png
+
+### Static Website Hosting
+
+screenshots/static%20website%20Hosting.png
+
+### Bucket Policy
+
+screenshots/Bucketpolicy.png
+
+### Route 53 Hosted Zone
+
+![Route53 Hosted Zone](screenshots/.png )
