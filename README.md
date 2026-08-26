@@ -116,13 +116,6 @@ http://muyarchi.in
 
 ## Screenshots
 
-screenshots/Browsing Page.png
+## Test
 
 screenshots/Bucket.png
-
-screenshots/static website Hosting.png
-
-screenshots/Bucketpolicy.png
-
-screenshots/Route53 Hosted Zone.png
-
