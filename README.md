@@ -116,23 +116,13 @@ http://muyarchi.in
 
 ## Screenshots
 
-### Website Working
+screenshots/Browsing Page.png
 
-screenshots/Browsing%20Page.png
+screenshots/Bucket.png
 
-### S3 Bucket
-
-![S3 nshots/Bucket.png
-
-### Static Website Hosting
-
-screenshots/static%20website%20Hosting.png
-
-### Bucket Policy
+screenshots/static website Hosting.png
 
 screenshots/Bucketpolicy.png
 
-### Route 53 Hosted Zone
-
-![Route 53 /Route53%20Hosted%20Zone.png
+screenshots/Route53 Hosted Zone.png
 
