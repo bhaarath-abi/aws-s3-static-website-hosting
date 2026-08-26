@@ -116,6 +116,8 @@ http://muyarchi.in
 
 ## Screenshots
 
-## Test
-
-screenshots/Bucket.png
+screenshots/Browsing-Page.png
+![Seenshots/Bucket.png
+![Static Website Hosting](screensg.png
+![Bucket Policy](screenshots
+![Routehots/Route53-Hosted-Zone.png
