@@ -114,8 +114,4 @@ Website:
 
 http://muyarchi.in
 
-## Screenshots
 
-## Test
-
-![Bucketots/Bucket.png
